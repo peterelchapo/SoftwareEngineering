@@ -4,6 +4,9 @@ int main()
 {
     int i = 0;
 
+
+
+
     printf("Start while loop\n");
 
     do
